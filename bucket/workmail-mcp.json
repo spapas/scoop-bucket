@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Local, security-focused bridge between an IMAP mailbox and MCP-capable AI clients.",
     "homepage": "https://github.com/spapas/workmail-mcp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spapas/workmail-mcp/releases/download/v0.2.0/workmail-mcp-windows-amd64.exe",
-            "hash": "1cfba0699f2a8c96e549f5f76ab21d00251be381400a9ad77981b5b2a85881b4",
+            "url": "https://github.com/spapas/workmail-mcp/releases/download/v0.3.0/workmail-mcp-windows-amd64.exe",
+            "hash": "a22cac2332d57730329344cbf22dd6751b0a25b55b043e000f9ce6bc8c6d73af",
             "bin": [
                 [
                     "workmail-mcp-windows-amd64.exe",
