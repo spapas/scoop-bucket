@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "1.0.0",
     "description": "Offline TOTP authenticator for Windows and Linux.",
     "homepage": "https://github.com/spapas/totpvault",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/spapas/totpvault/releases/download/v0.2.1/totpvault-v0.2.1-windows-amd64.zip",
-            "hash": "c3a8f7cb43bdfa8abbfe16361c52be35c1bf5caf3c6a7dcbb59c127d30efdc73",
+            "url": "https://github.com/spapas/totpvault/releases/download/v1.0.0/totpvault-v1.0.0-windows-amd64.zip",
+            "hash": "f24951fb215d3f5ff32741945ac2169a2982270a74928dc8566e0de77a4f1bb1",
             "bin": "totpvault.exe",
             "shortcuts": [
                 [
